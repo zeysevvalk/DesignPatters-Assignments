@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\bin\Debug\net8.0-windows\Assignment1.exe
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\bin\Debug\net8.0-windows\Assignment1.deps.json
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\bin\Debug\net8.0-windows\Assignment1.runtimeconfig.json
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\bin\Debug\net8.0-windows\Assignment1.dll
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\bin\Debug\net8.0-windows\Assignment1.pdb
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\Assignment1.Form1.resources
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\Assignment1.TrainDisplayForm.resources
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\Assignment1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\Assignment1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\Assignment1.AssemblyInfo.cs
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\Assignment1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\Assignment1.dll
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\refint\Assignment1.dll
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\Assignment1.pdb
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\Assignment1.genruntimeconfig.cache
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK3\Assignment1\obj\Debug\net8.0-windows\ref\Assignment1.dll
