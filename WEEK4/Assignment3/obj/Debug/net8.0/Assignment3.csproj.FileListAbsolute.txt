@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\bin\Debug\net8.0\Assignment3.exe
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\bin\Debug\net8.0\Assignment3.deps.json
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\bin\Debug\net8.0\Assignment3.runtimeconfig.json
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\bin\Debug\net8.0\Assignment3.dll
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\bin\Debug\net8.0\Assignment3.pdb
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\obj\Debug\net8.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfo.cs
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\obj\Debug\net8.0\Assignment3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\obj\Debug\net8.0\Assignment3.dll
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\obj\Debug\net8.0\refint\Assignment3.dll
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\obj\Debug\net8.0\Assignment3.pdb
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\obj\Debug\net8.0\Assignment3.genruntimeconfig.cache
+\\Mac\Home\Desktop\ALL ASSIGNMENTS\WEEK4\Assignment3\obj\Debug\net8.0\ref\Assignment3.dll
